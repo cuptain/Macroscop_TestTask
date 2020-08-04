@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\bin\Debug\ClientServerMacroscop.exe.config
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\bin\Debug\ClientServerMacroscop.exe
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\bin\Debug\ClientServerMacroscop.pdb
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\bin\Debug\SimpleTCP.dll
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ClientServerMacroscop.Properties.Resources.resources
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ServerMacroscop.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ServerMacroscop.csproj.CopyComplete
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ClientServerMacroscop.exe
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ClientServerMacroscop.pdb
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ServerMacroscop.ServerForm.resources
+C:\Users\Acer\source\repos\ClientServerMacroscop\ClientServerMacroscop\obj\Debug\ServerMacroscop.csprojAssemblyReference.cache
